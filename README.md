@@ -21,4 +21,4 @@ Simulations of DC-DC converter and sensors.
 Matlab files to calculate component values for Cuk and SEPIC DC-DC converters.
 
 #Final Report Documents
-This project was begun as a junior design project at John Brown University, as such a detailed final report and presentation can be seen in this folder.
+This project was begun as a junior design project at John Brown University, as such, a detailed final report and presentation can be seen in this folder.
