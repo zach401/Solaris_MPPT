@@ -2,10 +2,7 @@
 A low-cost solar maximum power point tracker. 
 
 #Team
-Kyle Crouse
-Zeke Zumbro
-Austin Ricks
-Zachary Lee
+Kyle Crouse | Zeke Zumbro | Austin Ricks | Zachary Lee
 
 #Code
 The microprocessor using in this project is the TI MSP430G2553 which is standing in the TI MSP430 Launchpad. C code to run the MPPT using the Perturb and Observe algorithm can be found in the Code folder. This is setup as a TI CodeComposer project.
